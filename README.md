@@ -62,7 +62,7 @@ The Marketing team's hypothesis was not confirmed. USD fluctuations do not expla
 | Home | 11.5% | 29.9% |
 | Clothing | 11.5% | 29.5% |
 
-![Category Margin vs Revenue](screenshots/category_margin.png)
+![Category Margin vs Revenue](category_margin.png)
 
 All categories show similar margin levels (11–12%). No underperforming category was identified.
 
@@ -72,7 +72,7 @@ The Commercial Director's margin hypothesis was not confirmed.
 
 ### 3. Acquisition Channels — LTV
 
-![LTV by Channel](screenshots/ltv_by_channel.png)
+![LTV by Channel](ltv_by_channel.png)
 
 | Channel | Avg LTV (UAH) | Customers |
 |---------|--------------|-----------|
@@ -89,7 +89,7 @@ Paid Search delivers 2.5× higher average LTV than Affiliate. Channel mix is a m
 
 ### 4. RFM Customer Segmentation
 
-![RFM Segmentation](screenshots/rfm_segmentation.png)
+![RFM Segmentation](rfm_segmentation.png)
 
 | Segment | Customers | Avg Spend (UAH) | Avg Orders |
 |---------|-----------|-----------------|------------|
@@ -105,7 +105,7 @@ Paid Search delivers 2.5× higher average LTV than Affiliate. Channel mix is a m
 
 ### 5. Seasonality (2023–2024)
 
-![Seasonality](screenshots/seasonality.png)
+![Seasonality](seasonality.png)
 
 Consistent patterns across both years:
 - **October**: strongest month (+13.7% above average)
