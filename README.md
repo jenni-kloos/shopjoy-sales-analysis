@@ -46,7 +46,7 @@ The CEO noticed an alarming pattern (Jan–May 2025): some days sales hit record
 
 ### 1. USD Exchange Rate vs Sales
 
-![USD vs Orders](screenshots/usd_vs_orders.png)
+![USD vs Orders](usd_vs_orders.png)
 
 Correlation between USD rate and order count: **r = −0.04**. Correlation with average check: **r = −0.07** — no meaningful linear relationship detected in either metric.
 
