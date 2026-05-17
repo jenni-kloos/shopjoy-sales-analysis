@@ -155,7 +155,11 @@ The findings support:
 ├── orders.parquet                 # Order transactions
 ├── sessions.db                    # SQLite: customers & sessions
 ├── requirements.txt               # Python dependencies
-├── screenshots/                   # Charts used in README
+├── usd_vs_orders.png              # Charts used in README
+├── category_margin.png
+├── ltv_by_channel.png
+├── rfm_segmentation.png
+└── seasonality.png                  
 └── README.md
 ```
 
